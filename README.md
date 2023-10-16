@@ -28,6 +28,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anshrehan04&" alt="anshrehan04" /></p>
 
-<img src="(https://holopin.me/anshrehan04)](https://holopin.io/@anshrehan04)">
-
-
+<a href="https://holopin.me/anshrehan04">
