@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **DSA in c++,Javascript,Front-End**
 
-- 👨‍💻 All of my projects are available at [https://github.com/AnshRehan04/Billing_system](https://github.com/AnshRehan04/Billing_system)
+- 👨‍💻 All of my projects are available at (https://linktr.ee/anshrehan04?utm_source=linktree_admin_share)
 
 - 📫 How to reach me **anshrehan7@gmail.com**
 
