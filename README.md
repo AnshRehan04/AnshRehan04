@@ -17,6 +17,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/anshrehan04" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anshrehan04" height="30" width="40" /></a>
   <a href="https://leetcode.com/anshrehan7/" target="blank"><img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBJUCodpVrl9ifdt_0JIKF8FWV2XfWTZqA9_c5Ql8&s" alt="anshrehan04" height="30" width="40" /></a>
+  <a href="https://twitter.com/anshrehan04" target="blank"/><img  height="30" width="20" src="https://img.freepik.com/free-vector/new-2023-twitter-logo-x-icon-design_1017-45418.jpg?size=338&ext=jpg&ga=GA1.1.1141335507.1710633600&semt=ais"></a>
 </p>
 
 <img src="https://stats.quine.sh/AnshRehan04/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=AnshRehan04">
