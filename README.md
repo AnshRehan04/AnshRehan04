@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ansh Rehan</h1>
 <h3 align="center">Coding Enthusiast</h3>
-<img align="right" alt="coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fstock.adobe.com%2Fsearch%3Fk%3Dprogrammer%2Bcartoon&psig=AOvVaw1ihQGGJUPulYT96XoIAt14&ust=1710743366307000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCOjNkebV-oQDFQAAAAAdAAAAABAJ">
+<img align="right" alt="coding" width="400" src="https://t4.ftcdn.net/jpg/03/13/40/45/360_F_313404541_e9YZ3pht6oEEkMXuhxTboqXA2B2ShNnC.jpg">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anshrehan04&label=Profile%20views&color=0e75b6&style=flat" alt="anshrehan04" /> </p>
 
