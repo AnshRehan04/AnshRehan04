@@ -28,6 +28,10 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anshrehan04&show_icons=true&locale=en&layout=compact" alt="anshrehan04" /></p>
 
+<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=AnshRehan04&label=Profile%20Views&color=1&icon=0&pretty=false" />
+</a>
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anshrehan04&show_icons=true&locale=en" alt="anshrehan04" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anshrehan04&" alt="anshrehan04" /></p>
