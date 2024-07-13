@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anshrehan04&label=Profile%20views&color=0e75b6&style=flat" alt="anshrehan04" /> </p>
 
-- 🌱 I’m currently learning **DSA in c++,Javascript,Front-End**
+- 🌱 I’m currently learning **DSA in c++,Javascript,Front-End** and contributing to Open source.
 
 - 👨‍💻 All of my projects are available at https://linktr.ee/anshrehan04?utm_source=linktree_admin_share
 
