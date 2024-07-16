@@ -4,7 +4,7 @@
 
 
 
-- 🌱 I’m currently learning **DSA in c++,Javascript,Front-End** and contributing to Open source.
+- 🌱 I’m currently learning **DSA in c++,JAVA,Javascript,Front-End** and contributing to Open source.
 
 - 👨‍💻 All of my projects are available at https://linktr.ee/anshrehan04?utm_source=linktree_admin_share
 
