@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **anshrehan7@gmail.com**
 
-- 👩🏻‍💻 My Latest Project :https://github.com/AnshRehan04/Learnism
+- 👩🏻‍💻 My Latest Project :https://intellibot-omega.vercel.app/
 
 - 🚀 My Portfolio: https://portfolio-theta-ruby-64.vercel.app/
 <h3 align="left">Connect with me:</h3>
